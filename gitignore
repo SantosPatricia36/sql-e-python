@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# SQLite database file
+biblioteca.db
+
+# IDE configurations
+.idea/
+.vscode/
+
+# Logs
+*.log
